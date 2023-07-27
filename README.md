@@ -25,5 +25,18 @@ Example files are in Examples_Miuul
         Data Fill and Examples,
         Data Shape and Examples
         
+
+### Rule_Based_Classification folder includes;
+        
+        Kural_Tabanl_Snflandrma.pdf file,
+        persona.csv file,
+        Rule_Based_Classification.ipynb file and This file includes;
+
+                Point : A game company wants to estimate , how much will new customer bring using its customers some features.
+
+                The solution of this problem. 
+
+
+
         
         
