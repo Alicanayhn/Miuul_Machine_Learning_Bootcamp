@@ -37,6 +37,12 @@ Example files are in Examples_Miuul
                 The solution of this problem. 
 
 
+### Diabets_Feature_Engineering folder includes;
 
-        
-        
+        Diabets_Feature_Engineering.pdf file,
+        diabets.csv file,
+        Diabets_Feature_Engineering.ipynb file and this file includes;
+
+                Point: Predicting whether people have diabetes when their characteristics are specified.
+
+                The solution of this point.
